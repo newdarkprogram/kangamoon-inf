@@ -1,0 +1,4217 @@
+/* media */
+@media (max-width:2550px) {
+    .container {
+        max-width: 1500px;
+    }
+    .form-buy-section .banner-imge-bg img {
+        padding-top:27%;
+    }
+}
+@media (max-width:1920px) {
+    .form-buy-section .banner-imge-bg img {
+        padding-top: 17%;
+    }
+    .eco-img {
+        right: -120px;
+        bottom: -20px;
+        max-width: 380px;
+    }
+    .banner-section {
+        height: 900px;
+    }
+}
+
+@media(max-width:1800px) {
+    .banner-section {
+        height: 850px;
+    }
+
+    .eco-img {
+
+        right: -140px;
+
+        bottom: -20px;
+
+        max-width: 350px;
+
+    }
+
+    .swiper-inner .discover-content {
+
+        padding: 45px 20% 64px 50px;
+
+    }
+
+    .container.bacnner-content {
+        padding-top: 4rem;
+    }
+
+}
+
+@media (max-width:1680px) {
+
+    .container {
+        max-width: 80%;
+    }
+    .ecosystemSlider .swiper-button-prev,
+    .ecosystemSlider .swiper-button-next {
+        bottom: -50px;
+    }
+    .comm-team-section .banner-imge-bg {
+        top: -60%;
+    }
+    .tittle-h1 {
+        font-size: 60px;
+    }
+
+    .eco-img {
+
+        right: -120px;
+
+        bottom: -20px;
+
+        max-width: 280px;
+
+    }
+
+    .chart-img {
+        position: absolute;
+        top: -140px;
+        left: 50px;
+        max-width: 420px;
+    }
+
+    .step-sec-wpr {
+        gap: 7rem 3rem;
+    }
+    .step-numbring {
+        width: 7rem;
+        height: 7rem;
+        border-radius: 1rem;
+        right: 0.85rem;
+    }
+
+    .banner-sec-rhs {
+        max-width: 60%;
+    }
+}
+@media(max-width:1600px){
+    .step-sec-wpr {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+@media (max-width:1536px) {
+    .banner-section {
+        height: 800px;
+    }
+    .menu-list {
+
+        gap: 15px 5px;
+
+    }
+
+    .menu-cta-wpr {
+
+        gap: 15px 15px;
+
+    }
+    .container {
+        max-width: 90%;
+    }
+    .discover-content h2 {
+
+        font-size: 42px;
+
+    }
+    .dontWait .discover-content h2 {
+        font-size: 30px;
+    }
+    .chart-img {
+        top: -110px;
+        left: 50px;
+        max-width: 400px;
+    }
+
+    .tocken-list-wpr {
+
+        padding: 5rem 3rem;
+
+    }
+
+}
+
+@media (max-width:1440px) {
+
+    .discover-content h2 {
+        font-size: 38px;
+        margin-bottom: 20px;
+    }
+    .dontWait .discover-content h2 {
+        font-size: 30px;
+    }
+    .container {
+        max-width: 90%;
+    }
+    .dontWait .discover-content {
+        margin-left: auto;
+    }
+    .form-inner-images img:nth-child(3) {
+        right: 90px;
+    }
+    .dontWait .discover-rhs {
+        max-width: 550px;
+    }
+    .form-inner-images img:nth-child(2) {
+        bottom: 0;
+        left: 40px;
+    }
+
+    .tittle-h1 {
+        font-size: 55px;
+        line-height: 130%;
+    }
+
+    .discover {
+        padding-top: 17rem;
+    }
+
+    .discover-rhs {
+        max-width: 500px;
+    }
+
+    .join-us-wpr {
+        padding-top: 20rem;
+    }
+
+    .faq-sec.position-relative {
+        padding-top: 21rem;
+    }
+
+    ul.accordion-list li h3,
+    .presale-table-wpr table tbody tr td {
+        font-size: 23px;
+    }
+
+    .footer-sec-bott .banner-imge-bg {
+        margin-top: -170px;
+    }
+
+    .footer-sec-bott {
+        padding-top: 9rem;
+    }
+
+    .rkt-pos {
+        max-width: 250px;
+    }
+
+    img.rkt-pos2 {
+        max-width: 710px;
+    }
+
+    .container.bacnner-content {
+        padding-top: 5rem;
+    }
+
+    .stage {
+        font-size: 42px;
+    }
+
+    .price-act h3 {
+        font-size: 30px;
+    }
+
+    .discover-content {
+        max-width: 670px;
+        padding: 45px 42px 66px 42px;
+    }
+
+    .cta-pink {
+        min-width: 226px;
+        max-width: 210px;
+    }
+
+    .ecosystemSlider .swiper-button-next {
+        right: 21%;
+    }
+
+    .tockenmatic-bnner {
+        max-width: 60%;
+        margin-top: 40px;
+    }
+
+    .contact-sec {
+        padding-top: 3rem;
+    }
+
+    .presale-table-wpr {
+        max-width: 81%;
+        margin: auto;
+    }
+
+    .kangaverse-tittle h2 {
+        font-size: 42px;
+    }
+
+    .img-moon-wpr {
+        max-width: 320px;
+        right: 10px;
+        top: -270px;
+    }
+
+    .comm-team-section .banner-imge-bg {
+        top: -50%;
+    }
+
+    section.roadmap-sec {
+        padding-top: 10rem;
+    }
+
+    .roadmap-arrows {
+        top: -133px;
+    }
+    .brand-wpr {
+        width: 15%;
+        padding-right: 15px;
+    }
+    .nav-links.flex-row {
+        width: 85%;
+        gap: 15px;
+    }
+}
+
+@media (max-width:1366px) {
+
+    .container {
+
+        max-width: 90%;
+
+    }
+    .gt_float_switcher .gt_options {
+        left: -56px !important;
+    }
+    .form-inner-images img:nth-child(2) {
+
+        left: 65Px;
+
+    }
+
+    .form-inner-images img:nth-child(3) {
+
+        right: 90px;
+
+    }
+
+    .discover-rhs {
+
+        right: -80px;
+
+    }
+
+    .tp-bnr-cta .cta.cta-light {
+
+        font-size: 18px;
+
+        padding: 12px 42px;
+
+    }
+
+    .tp-bnr-cta .cta.cta-dark {
+
+        font-size: 15px;
+
+        padding: 12px 12px;
+
+    }
+
+    .banner-sec-lhs {
+
+        max-width: 80%;
+
+    }
+
+    .ecosystemSlider .discover-content {
+        max-width: 660px;
+    }
+
+    .desc {
+        font-size: 16px;
+        line-height: 26px;
+    }
+
+    .tittle-h1 {
+        font-size: 50px;
+        line-height: 130%;
+    }
+
+    .stage {
+        font-size: 40px;
+    }
+
+    .price-act h3 {
+        font-size: 28px;
+    }
+
+    .amount h3 {
+        font-size: 22px;
+    }
+
+    .cta-buy .cta.cta-dark {
+        height: 60px;
+        font-size: 20px;
+    }
+
+    .discover {
+        padding-top: 20rem;
+    }
+
+    .cta-pink {
+        font-size: 20px;
+    }
+
+    .step-numbring {
+        width: 6rem;
+        height: 6rem;
+    }
+
+    .number {
+        font-size: 7.25rem;
+    }
+
+
+    .discover-content h2 {
+        font-size: 34px;
+    }
+
+    .ecosystem-section {
+        padding-bottom: 15rem;
+    }
+
+    .kangaverse-tittle h2 {
+        font-size: 45px;
+    }
+
+    .tockenmatic-bnner {
+        margin-top: 20px;
+    }
+
+    .contact-sec {
+        padding-top: 3rem;
+    }
+
+    .presale-voilet-glob {
+        left: -30px;
+        top: 50px;
+    }
+
+    .presale-fire-glob {
+        right: -50px;
+        top: 250px;
+        max-width: 200px;
+    }
+
+    .presale-voilet-glob {
+        max-width: 150px;
+    }
+
+    .presale-wpr,
+    section.roadmap-sec {
+        padding-top: 11rem;
+    }
+
+    ul.accordion-list li h3,
+    .presale-table-wpr table tbody tr td {
+        font-size: 21px;
+    }
+
+    .team-content-wp {
+        padding: 0.5rem;
+    }
+
+    .audit-sec-outer {
+        padding-bottom: 135px;
+    }
+    .audit-sec-outer.our-listing {
+        padding-top: 10rem;
+        padding-bottom: 0;
+    }
+    .faq-sec.position-relative {
+        padding-top: 15rem;
+    }
+
+    .kangaverse-img {
+        width: 90%;
+    }
+
+    .menu-cta-wpr.tp-bnr-cta {
+        margin-top: 40px;
+    }
+
+    .eco-img {
+        right: -60px;
+    }
+
+    .ecosystemSlider .swiper-button-next {
+        right: 20%;
+    }
+    .step-sec-wpr {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+
+@media (max-width:1280px) {
+    .chart-img {
+        top: -110px;
+        left: 30px;
+        max-width: 380px;
+    }
+    .step-sec-wpr {
+        gap: 6rem 2rem;
+    }
+    .container {
+
+        max-width: 95%;
+
+    }
+
+    .ecosystemSlider .discover-content {
+        max-width: 570px;
+        border-radius: 40px;
+    }
+
+    .cta-yellow {
+
+        font-size: 18px;
+
+        min-width: 205px;
+
+        height: 45px;
+
+        max-width: 200px;
+
+    }
+
+    .eco-img {
+        right: -50px;
+        bottom: -20px;
+        max-width: 280px;
+    }
+
+    .ft-kang-otr {
+
+        width: 95%;
+
+    }
+
+    .banner-section {
+
+        height:750px;
+
+        margin-bottom: 70px;
+
+    }
+
+    .tocken-wpr {
+
+        padding: 3rem;
+
+    }
+
+    .img-moon-wpr {
+
+        max-width: 300px;
+
+        right: 60px;
+
+        top: -250px;
+
+    }
+
+    .banner-imge-bg.toknomics-bg-wp {
+
+        padding-top: 15rem;
+
+    }
+
+    .cta-pink {
+        font-size: 18px;
+    }
+
+    .ecosystem-section {
+        padding-bottom: 13rem;
+        padding-top: 10rem;
+
+    }
+
+    .form-tittle {
+        font-size: 30px;
+    }
+
+    .discover {
+        padding-top: 16rem;
+    }
+    .kangaverse-section {
+        padding: 12% 0;
+    }
+    .contact-sec {
+        padding-bottom: 4rem;
+    }
+
+    .presale-wpr,
+    section.roadmap-sec {
+        padding-top: 10rem;
+    }
+
+    .faq-sec.position-relative {
+        padding-top: 13rem;
+    }
+
+    .comm-team-section .banner-imge-bg {
+        top: -55%;
+    }
+    .discover-content {
+        margin-left: auto;
+        border-radius: 35px;
+    }
+    #about  .discover-content {
+         margin-left: inherit;
+         margin-right: auto;
+    }
+    #about  .discover-rhs {
+        right: -60px;
+    }
+    .nav-links.flex-row {
+        gap: 15px;
+    }
+    .audit-sec-outer.our-listing .audit-wpr {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+    }
+@media (max-width:1200px) {
+    section.tokenomics {
+        padding-top: 6rem;
+    }
+
+    .step-tittle {
+        font-size: 18px;
+        margin-bottom: 12px;
+    }
+
+    .form-inner-images img:nth-child(2) {
+        left: 0;
+    }
+    .dontWait .glob-img-fire {
+        right: inherit;
+        left: 0;
+    }
+    .discover-content h2 {
+        font-size: 28px;
+    }
+    .dontWait .discover-rhs img {
+        max-width: 100%;
+    }
+    .dontWait .discover-rhs{
+        max-width: 38%;
+    }
+    .dontWait.discover {
+        padding-top: 10rem;
+    }
+    .dontWait .discover-content{
+        margin-left: auto;
+    }
+    .eco-img {
+        right: -130px;
+        bottom: -20px;
+        max-width: 280px;
+    }
+
+    .discover-content h2 {
+        font-size: 32px;
+    }
+
+    .footer-sec-bott .banner-imge-bg {
+        margin-top: 20px;
+    }
+    .banner-sec-rhs {
+        max-width: 60%;
+        top: 30px;
+        right: -60px;
+    }
+    .form-inner-images img:nth-child(3) {
+
+        right: 50px;
+
+    }
+
+    .join-tittle {
+        font-size: 1.8rem;
+    }
+
+    .banner-sec-lhs {
+
+        max-width: 100%;
+
+    }
+
+    .rkt-pos {
+        left: -30px;
+        max-width: 220px;
+        top: 50px;
+    }
+
+    .banner-section {
+        margin-bottom: 0;
+    }
+
+    .menu-cta-wpr.tp-bnr-cta {
+        margin-top: 30px;
+    }
+
+    .cta-pink {
+        font-size: 20px;
+        max-width: 200px;
+        min-width: 200px;
+    }
+
+    .brand-wpr {
+
+        width: 15%;
+
+    }
+
+    .menu-list {
+
+        gap: 10px 0px;
+
+    }
+
+    .nav-links.flex-row {
+
+        width: 82%;
+
+    }
+
+    .menu-link {
+
+        font-size: 15px;
+
+        padding: 10px 8px;
+
+    }
+
+    .menu-cta-wpr {
+
+        padding-left: 8px;
+
+        gap: 10px 10px;
+
+    }
+
+    .cta.cta-dark {
+        padding: 8px 15px;
+        font-size: 12px;
+    }
+
+    .cta.cta-light {
+
+        font-size: 12px;
+        padding: 8px 15px;
+
+    }
+
+    .join-us-top {
+
+        max-width: 84%;
+
+    }
+
+    .number {
+        font-size: 6.55rem;
+    }
+
+    .step-numbring {
+
+        width: 5rem;
+
+        height: 5rem;
+
+        right: 1.25rem;
+
+        transform: translate(0, -110%) rotate(0) skewX(0) skewY(0) scaleX(1) scaleY(1);
+
+    }
+
+    .step-desc {
+        max-width: 100%;
+        line-height: 140%;
+    }
+
+    .step-col {
+
+        padding-bottom: 3rem;
+
+        padding-top: 3rem;
+
+    }
+
+    .kangaverse-img {
+        width: 90%;
+        margin: auto;
+    }
+
+    .kangaverse-tittle.powered-by {
+        padding-bottom: 3rem;
+    }
+
+    /* .powered-grid .powered-col:first-child img {
+        max-width: 70px;
+    } */
+
+    .ecosystem-section {
+        padding-top: 8rem;
+        padding-bottom: 12rem;
+    }
+
+    .corlored-box {
+        width: 1.5rem;
+        height: 1.5rem;
+        margin-top: 3px;
+    }
+
+    .tokenomics-item-list {
+        gap: 0.8rem 0.8rem;
+        grid-template-columns: 1.5rem 1fr;
+    }
+
+    .ecosystem-title h2 {
+        font-size: 35px;
+    }
+
+    .kangaverse-tittle h2 {
+        font-size: 35px;
+    }
+
+    .roadmap-wpr .ecosystem-title h2 {
+        font-size: 35px;
+    }
+
+    .faq-ttl h2 {
+        font-size: 35px;
+    }
+
+    .roadmap-arrows {
+        top: -130px;
+    }
+
+    .tocken-wpr {
+
+        padding: 0rem;
+
+    }
+
+    .chart-img {
+        top: -80px;
+        left: 20px;
+        max-width: 350px;
+    }
+
+    .tockenmatic-bnner {
+
+        margin-top: 20px;
+
+    }
+
+    .tocken-list-wpr {
+
+        padding: 4rem 3rem;
+
+    }
+
+    .tocken-detail-desc {
+
+        margin-top: -30px;
+
+    }
+
+    ul.accordion-list li h3,
+    .presale-table-wpr table tbody tr td {
+        font-size: 20px;
+    }
+
+    .presale-table-wpr table thead th {
+        font-size: 20px;
+    }
+
+    .banner-imge-bg.toknomics-bg-wp {
+
+        padding-top: 22rem;
+
+    }
+
+    .presale-wpr,
+    section.roadmap-sec {
+        padding-top: 8rem;
+    }
+
+    .community-inner .kangaverse-tittle {
+
+        max-width: 65%;
+
+    }
+
+    .community-inner .kangaverse-tittle h2 {
+        line-height: 130%;
+        margin-bottom: 8px;
+    }
+
+    .comm-team-section .banner-imge-bg {
+
+        margin-top: 0;
+
+    }
+
+    .discover-content {
+
+        border-radius: 50px;
+
+        padding: 45px 50px 66px 50px;
+
+    }
+
+    .comm-team-section .team-outer-wpr .kangaverse-tittle {
+
+        max-width: 100%;
+
+    }
+
+    .img-moon-wpr {
+
+        max-width: 300px;
+
+        margin-left: auto;
+
+        position: absolute;
+
+        right: 40px;
+
+        top: -230px;
+
+    }
+
+    .discover-content {
+
+        max-width: 620px;
+
+    }
+
+    .rocket-img {
+        max-width: 180px;
+    }
+
+    .join-us-wpr {
+        padding-top: 15rem;
+    }
+
+    .swiper-inner .discover-content {
+        padding: 40px 14% 50px 40px;
+    }
+
+    .ecosystemSlider .swiper-button-next,
+    .ecosystemSlider .swiper-button-prev {
+        bottom: -45px;
+    }
+
+    .discover-rhs {
+        right: 20px;
+        top: 40px;
+        max-width: 460px;
+    }
+
+    .glob-img-fire {
+        position: absolute;
+        right: 0;
+        max-width: 240px;
+    }
+
+    .discover {
+        padding-top: 17rem;
+    }
+
+    .banner-imge-bg.toknomics-bg-wp {
+        padding-top: 24rem;
+    }
+    #about .discover-content {
+        margin-left: inherit;
+        margin-right: auto;
+    }
+
+    #about .discover-rhs {
+        right: -60px;
+    }
+
+}
+
+.kng-disc-grid .kng-disc-col .kng-disc-grid-line:last-child {
+    display: none;
+}
+
+@media (max-width:1024px) {
+    .audit-sec-outer.our-listing {
+        padding-top: 3rem;
+        padding-bottom: 0;
+    }
+    .presale-table-wpr table thead th,
+    .presale-table-wpr table tbody tr td {
+        font-size: 18px;
+    }
+    .menu-link {
+        font-size: 14px;
+        padding: 8px 5px;
+    }
+    .form-inner-images img:nth-child(3) {
+        right: 0;
+    }
+
+    .tittle-h1 {
+        font-size: 45px;
+        line-height: 130%;
+    }
+
+    .banner-sec-rhs {
+        max-width: 60%;
+        top: 54%;
+        transform: translateY(-50%);
+        right: -50px;
+    }
+
+    img.rkt-pos2 {
+        max-width: 610px;
+    }
+
+    .rkt-pos {
+        left: -40px;
+        max-width: 240px;
+        top: 0;
+    }
+
+    .banner-section {
+        height: 650px;
+        margin-bottom: 30px;
+    }
+
+    .rkt-pos {
+        left: -30px;
+        max-width: 200px;
+        top: 30px;
+    }
+
+    .discover-rhs {
+        right: 0;
+        top: 50px;
+        max-width: 420px;
+    }
+
+    .rocket-img {
+        max-width: 130px;
+    }
+
+    .stage {
+        font-size: 35px;
+    }
+
+    .amount h3 {
+        font-size: 18px;
+    }
+
+    .range-sold {
+        margin-bottom: 5px;
+    }
+
+    .price-act h3 {
+        font-size: 22px;
+    }
+
+    .price-act img {
+        max-width: 30px;
+        margin-right: 8px;
+    }
+
+    .countdown {
+        height: 55px;
+    }
+
+    #timer #main_countedown_1 .time_left {
+        font-size: 20px;
+    }
+
+    #timer #main_countedown_1 .element_conteiner ::after {
+        top: 2px;
+    }
+
+    .join-us-wpr {
+        padding-top: 10rem;
+    }
+
+    .discover {
+        padding-top: 10rem;
+    }
+
+    .glob-img-fire {
+
+        right: 0;
+
+    }
+
+    .form-content {
+
+        max-width: 665px;
+
+    }
+
+    .swiper-inner .discover-content {
+        padding: 30px 25% 30px 25px;
+    }
+    .audit-sec-outer.our-listing .audit-wpr {
+        gap: 1rem 1rem;
+    }
+}
+
+
+
+@media (max-width:992px) {
+    .terms-main-wpr {
+        padding-top: 70px;
+    }
+       
+    .dontWait .glob-img-fire {
+        left: 90px;
+    }
+    .step-sec-wpr {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+    .dontWait .discover-content h2 {
+        font-size: 28px;
+    }
+    .dontWait .discover-rhs img {
+        max-width: 100%;
+        width: 100%;
+    }
+    .dontWait .discover-rhs {
+        max-width: 40%;
+    }
+    .comm-team-section .banner-imge-bg {
+        top: -48%;
+    }
+    .brand-wpr {
+
+        width: 18%;
+
+        padding-right: 0px;
+
+    }
+    .contact-inner {
+        margin-bottom: 3rem;
+    }
+    .ecosystemSlider .discover-content {
+        max-width: 600px;
+        border-radius: 20px;
+        padding: 35px 20% 44px 30px;
+    }
+
+    .ecosystemSlider .swiper-button-prev,
+    .ecosystemSlider .swiper-button-next {
+        bottom: -70px;
+    }
+    .ecosystemSlider.swiper-horizontal>.swiper-pagination-bullets,
+    .swiper-pagination-bullets.swiper-pagination-horizontal,
+    .ecosystemSlider .swiper-pagination-custom,
+    .ecosystemSlider .swiper-pagination-fraction {
+        max-width: max-content;
+        margin: auto;
+        left: 0;
+        right: 0;
+    }
+    .ecosystem-title {
+
+        padding-bottom: 4rem;
+
+    }
+    .gt_float_switcher .gt_options {
+        left: -80px !important;
+    }
+    .amount h3 {
+        font-size: 20px;
+    }
+
+    .price-act h3 {
+
+        font-size: 25px;
+
+    }
+
+    .form-content {
+
+        max-width: 678px;
+
+    }
+
+    .roadmap-sec .banner-imge-bg {
+        padding-top: 560px;
+        opacity: 0.5;
+    }
+
+    .faq-ttl h2 {
+        font-size: 35px;
+    }
+
+    section.roadmap-sec {
+        padding-top: 10rem;
+    }
+
+    .faq-sec.position-relative {
+        padding-top: 10rem;
+    }
+
+    .discover-rhs {
+        right: 10px;
+        top: 150px;
+        max-width: 440px;
+    }
+
+    .glob-img-fire {
+        right: 80px;
+        max-width: 220px;
+    }
+
+    .discover {
+        padding-top: 10rem;
+    }
+
+    .rocket-img {
+        max-width: 150px;
+    }
+
+    .join-us-wpr {
+        padding-top: 12rem;
+    }
+
+    .ecosystem-section {
+        padding-top: 8rem;
+        padding-bottom: 12rem;
+    }
+
+    .step-sec-wpr {
+        gap: 5rem 1rem;
+    }
+    .form-tittle {
+        line-height: 130%;
+        font-size: 30px;
+        max-width: 70%;
+    }
+
+    .banner-imge-bg.toknomics-bg-wp {
+
+        padding-top: 14rem;
+
+    }
+
+    .form-lock {
+        left: 30px;
+    }
+
+    .team-inner {
+
+        gap: 0.8rem 0.8rem;
+
+    }
+
+    .audit-sec-outer {
+        z-index: 3;
+        padding-top: 0px;
+    }
+
+    .roadmap-arrows {
+
+        top: -124px;
+
+        width: 100%;
+
+        max-width: 160px;
+
+        height: 68px;
+
+    }
+
+    .join-top-rhs.view-wpr {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .audit-inner {
+        width: 86.666667%;
+    }
+
+    .cta.cta-dark {
+        padding: 6px 10px;
+        font-size: 11px;
+    }
+
+    .cta.cta-light {
+        padding: 6px 10px;
+        font-size: 11px;
+
+    }
+
+    .container {
+
+        max-width: 98%;
+
+    }
+
+    .contact-sec {
+
+        padding-bottom: 4rem;
+
+        padding-top:4rem;
+
+    }
+
+    .presale-wpr {
+
+        padding-top: 4rem;
+
+    }
+
+    .menu-cta-wpr {
+
+        padding-left: 10px;
+
+        gap: 12px 6px;
+
+    }
+
+    .container.bacnner-content {
+        padding-top: 8rem;
+    }
+
+    .tittle-h1 {
+        font-size: 40px;
+    }
+
+    .banner-sec-rhs img.rkt-pos {
+        max-width: 200px;
+        left: -20px;
+        top: 10px;
+    }
+
+    .stage {
+        font-size: 35px;
+    }
+
+    .banner-sec-rhs {
+        max-width: 60%;
+        right: -70px;
+        top: 55%;
+        transform: translateY(-50%);
+    }
+
+    .banner-section {
+        height: 600px;
+        margin-bottom: 70px;
+    }
+
+    .desc {
+
+        font-size: 15px;
+
+        line-height: 25px;
+
+    }
+
+    .banner-sec-rhs img {
+
+        width: 100%;
+
+        max-width: 860px;
+
+    }
+
+    .menu-list {
+
+        gap: 5px 12px;
+
+    }
+
+    .menu-link {
+        font-size: 14px;
+        padding: 6px 2px;
+    }
+
+    .desc-bold {
+
+        font-size: 20px;
+
+    }
+
+    .tp-bnr-cta .cta.cta-light {
+
+        font-size: 18px;
+
+        padding: 15px 40px;
+
+    }
+
+    .tp-bnr-cta .cta.cta-dark {
+
+        font-size: 14px;
+
+        padding: 12px 12px;
+
+    }
+
+    .discover-content h2 {
+
+        font-size: 30px;
+
+    }
+
+    .join-us-top {
+        max-width: 98%;
+    }
+
+    .join-tittle {
+        font-size: 1.8rem;
+    }
+
+    .discover-content {
+
+        max-width: 560px;
+
+    }
+
+    .step-col {
+
+        padding-left: 2rem;
+
+        padding-right: 2rem;
+
+    }
+
+    .cta-pink {
+        min-width: 200px;
+        max-width: 200px;
+    }
+
+    .cta-buy .cta.cta-dark {
+        height: 55px;
+        font-size: 18px;
+    }
+
+    .menu-cta-wpr.tp-bnr-cta {
+        margin-top: 30px;
+        width: 100%;
+        flex-wrap: wrap;
+    }
+
+    .step-desc {
+
+        max-width: 100%;
+
+        line-height: 170%;
+
+    }
+
+    .chart-img {
+        top: -70px;
+        left: 0px;
+        max-width: 310px;
+    }
+
+    .tockenmatic-bnner {
+
+        margin-top: 20px;
+
+        max-width: 78%;
+
+    }
+
+    ul.accordion-list li h3,
+    .presale-table-wpr table tbody tr td {
+        font-size: 20px;
+    }
+
+    .banner-imge-bg.toknomics-bg-wp {
+
+        padding-top: 28rem;
+
+    }
+
+    .team-inner {
+
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+
+    }
+
+    .ftr-kng-wpr {
+
+        gap: 0.75rem 0.75rem;
+
+    }
+
+    .img-moon-wpr {
+
+        max-width: 260px;
+
+        top: -200px;
+
+    }
+
+    .comm-img-garllery {
+
+        margin-top: 35px;
+
+    }
+
+    .kangaverse-tittle h2 {
+
+        font-size: 35px;
+
+    }
+
+    .form-lock {
+        max-width: 110px;
+    }
+
+    .contact-inner {
+        max-width: 600px;
+    }
+
+    .presale-table-wpr table tbody tr td {
+
+        font-size: 18px;
+
+    }
+
+    .address-from {
+        margin-top: 0px;
+    }
+
+    .presale-table-wpr table thead th {
+        font-size: 15px;
+    }
+
+    .presale-table-wpr table {
+        border-spacing: 0 15px;
+    }
+
+    .roadmap-wpr .ecosystem-title h2 {
+        font-size: 35px;
+    }
+
+    .phase-step {
+        font-size: 1.8rem;
+    }
+
+    .team-degi {
+        font-size: 13px;
+    }
+
+    .tea-tittle {
+        font-size: 1.025rem;
+    }
+
+    .powered-sec {
+        padding: 6rem 0;
+    }
+/* 
+    .powered-grid .powered-col:first-child img {
+        max-width: 60px;
+    } */
+
+    .audit-img-wp img {
+        height: 3.5rem;
+    }
+
+    .audit-inner {
+        margin-top: 30px;
+    }
+
+    .audit-content {
+        gap: 0.45rem 0.45rem;
+    }
+
+    ul.accordion-list li div.answer p {
+        padding: 10px 40px 0 0px;
+    }
+
+    .ft-kang-socials {
+        width: 48%;
+    }
+    .audit-sec-outer.our-listing .audit-inner {
+        width: 100%;
+    }
+    .audit-sec-outer.our-listing .audit-wpr {
+        gap: 1rem 1rem;
+    }
+    .dontWait .discover-rhs {
+        left: -60px;
+    }
+}
+@media (max-width:850px) {
+    .menu-link{
+        font-size: 13px;
+    }
+    .cta.cta-dark {
+        font-size: 10px;
+    }
+    .cta.cta-light {
+        font-size: 10px;
+
+    }
+}
+@media (max-width:820px) {
+    .container.bacnner-content {
+        padding-top: 5rem;
+    }
+    .gt_float_switcher .gt_options {
+        left: 0px !important;
+    }
+    div#countdown-timer .flex-row {
+        font-size: 20px;
+    }
+    div#countdown-timer {
+        height: 55px;
+    }
+    div#countdown-timer {
+        max-width:65%;
+    }
+    .banner-imge-bg.toknomics-bg-wp {
+        padding-top: 35rem;
+    }
+    .banner-sec-rhs img.rkt-pos {
+        max-width: 200px;
+        left: -30px;
+        top: -10px;
+    }
+
+    .banner-sec-rhs {
+        max-width: 60%;
+        right: -70px;
+        top: 50%;
+        transform: translateY(-50%);
+    }
+    .banner-section {
+        margin-bottom: 30px;
+    }
+    .discover {
+        padding-top: 8rem;
+    }
+
+    button#mobile-open {
+
+        display: block;
+
+        position: absolute;
+
+        right: 30px;
+
+        top: 27px;
+
+        background: transparent;
+
+        border: 0;
+
+    }
+
+    header .nav-links.open {
+
+        right: 0px;
+
+        width: 312px;
+
+    }
+
+    .navbar-toggler.close span {
+
+        opacity: 1;
+
+        transform: rotate(-45deg) translate(-6px, 3px);
+
+        background: var(--whiteColor);
+
+    }
+
+    .navbar-toggler.close span:nth-last-child(2) {
+
+        opacity: 0;
+
+        transform: rotate(0deg) scale(0.2, 0.2);
+
+    }
+
+    .navbar-toggler.close span:nth-last-child(3) {
+
+        transform: rotate(45deg) translate(6px, 4px);
+
+        opacity: 1;
+
+    }
+
+    header .nav-links {
+        position: absolute;
+        width: 0;
+        padding: 50px 15px;
+        padding-top: 100px;
+        background: rgb(51 33 101 / 90%);
+        -webkit-font-smoothing: antialiased;
+        transform-origin: 0% 0%;
+        transition: 0.5s all ease !important;
+        right: -312px;
+        height: 100vh !important;
+        top: 0;
+        z-index: 95;
+        top: 0px;
+        opacity: 1;
+        padding-left: 50px;
+    }
+
+    .nav-links.flex-row {
+
+        display: block;
+
+    }
+
+    .nav-links.flex-row {
+
+        width: 100%;
+
+        max-width: 350px;
+
+        right: -100%;
+
+    }
+
+    /* body.fixed::before {
+
+        top: 0;
+
+        left: 0;
+
+        transition: 0.5s all ease;
+
+    } */
+
+    /* body:before {
+        content: '';
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        background-color: rgb(51 33 101 / 80%);
+        top: 0;
+        left: -100%;
+        z-index: 95;
+        transition: 0.5s all ease;
+        opacity: 1;
+        max-width: calc(100% - 312px);
+    } */
+
+    body.fixed {
+        overflow: hidden;
+    }
+    /* body.fixed main{height: 100vh;} */
+    .nav-links.flex-row.menu-opened {
+
+        right: 0;
+
+    }
+
+    .brand-wpr {
+
+        width: 22%;
+
+        padding-right: 0px;
+
+    }
+
+    header .cta {
+
+        min-width: 200px;
+
+    }
+
+    header .menu-cta-wpr {
+
+        padding-left: 0;
+
+        gap: 25px 25px;
+
+        flex-direction: column;
+
+        align-items: flex-start;
+
+        margin-top: 35px;
+
+    }
+
+    .menu-list {
+
+        flex-direction: column;
+
+        align-items: flex-start;
+
+        gap: 25px 25px;
+
+    }
+
+    header .cta.cta-light {
+
+        font-size: 14px;
+
+        padding: 12px 25px;
+
+    }
+
+    header .cta.cta-dark {
+
+        padding: 12px 28px;
+
+        font-size: 14px;
+
+    }
+
+    .menu-link {
+
+        font-size: 20px;
+
+    }
+
+    .form-content {
+
+        max-width: 600px;
+
+        border-radius: 40px;
+
+    }
+
+    .form-top {
+
+        border-radius: 40px 40px 0 0;
+
+    }
+
+    .discover-content {
+
+        max-width: 520px;
+
+    }
+
+    .discover-rhs {
+        right: -70px;
+        top: 150px;
+        max-width: 430px;
+    }
+
+    .glob-img-fire {
+        right: 100px;
+        max-width: 250px;
+    }
+
+    .step-tittle {
+        font-size: 18px;
+    }
+
+    .contact-inner {
+
+        max-width: 620px;
+
+    }
+
+    .audit-inner {
+
+        width: 100%;
+
+    }
+
+    .ecosystem-title {
+
+        padding-bottom: 7rem;
+
+    }
+
+    .roadmap-arrows {
+        top: -103px;
+        max-width: 120px;
+        height: 60px;
+        padding: 0.5rem;
+    }
+
+    .roadmap-sec .banner-imge-bg {
+        opacity: 0.5;
+    }
+
+    .swiper.roadmapSlider .swiper-button-next,
+    .swiper.roadmapSlider .swiper-button-prev {
+        width: 70px;
+        height: 36px;
+        top: 34px;
+    }
+
+    .kng-disc-grid {
+
+        gap: 2rem 2rem;
+
+    }
+
+    .img-moon-wpr {
+        right: 0;
+        top: -180px;
+        max-width: 220px;
+    }
+
+    .comm-img-garllery {
+
+        padding: 15px;
+
+    }
+
+    .img-grid {
+
+        border-radius: 15px;
+
+    }
+
+    .tokenomics-list {
+
+        gap: 1rem 1rem;
+
+    }
+
+
+
+    .chart-img {
+
+        top: -20px;
+
+        max-width: 300px;
+
+    }
+
+
+
+    .tocken-detail-desc {
+
+        margin: auto;
+
+        max-width: 98%;
+
+        margin-top: -30px;
+
+    }
+
+    .community-inner .kangaverse-tittle p {
+        margin-top: 5px;
+    }
+/* 
+    .team-outer-wpr.container {
+        margin-top: 8rem;
+    } */
+
+    .form-lock {
+
+        top: -55px;
+
+        left: 2px;
+
+    }
+
+    .brand-wpr {
+
+        width: 25%;
+
+    }
+
+    .rocket-img {
+        max-width: 150px;
+    }
+
+    .join-us-wpr {
+        padding-top: 15rem;
+    }
+
+    .join-us-top {
+        max-width: 100%;
+        gap: 25px 25px;
+        align-items: flex-start;
+    }
+
+    .ecosystem-title h2 {
+        font-size: 35px;
+    }
+
+    .ecosystem-section {
+        padding-top: 8rem;
+        padding-bottom: 10rem;
+    }
+
+    .ecosystem-title {
+        padding-bottom: 3rem;
+    }
+
+    .kangaverse-tittle.powered-by {
+        padding-bottom: 3rem;
+    }
+
+    .presale-fire-glob {
+        position: absolute;
+        right: -110px;
+        top: 190px;
+        max-width: 230px;
+    }
+
+    .kangaverse-tittle.tokenomics-tittle {
+        margin-bottom: 2rem;
+    }
+
+    section.roadmap-sec {
+        padding-top: 8rem;
+    }
+
+    .audit-sec-outer {
+        padding-bottom: 8rem;
+        padding-top: 0;
+    }
+
+    .faq-sec.position-relative {
+        padding-top: 10rem;
+    }
+
+    .footer-sec-bott {
+        padding-top: 4rem;
+    }
+
+    .footer-logo img {
+        max-width: 120px;
+    }
+
+    ul.accordion-list li h3 {
+        font-size: 20px;
+    }
+
+    .kangaverse-section .kangaverse-tittle.container {
+        margin-bottom: 3rem;
+    }
+
+    .ecosystemSlider .discover-content {
+        max-width: 420px;padding: 35px 14% 44px 30px;
+    }
+
+    .discover-content h2 {
+        font-size: 30px;
+    }
+
+    .join-tittle {
+        font-size: 1.8rem;
+    }
+}
+
+.kng-disc-grid-line.pb-2 {
+    margin-bottom: 1.2rem;
+}
+
+@media (max-width:768px) {
+    div#countdown-timer {
+        max-width:80%;
+    }
+    .dontWait .discover-rhs {
+        max-width: 31%;
+        bottom: 0;
+        top: inherit;
+        transform: none;
+    }
+    .dontWait .discover-content {
+        padding: 30px;
+    }
+    .kng-disc-grid {
+        gap: 0rem 0rem;
+    }
+    .presale-table-wpr {
+        max-width: 90%;
+    }
+    .kng-disc-grid .kng-disc-col .kng-disc-grid-line:last-child {
+        display: block;
+    }
+
+    .kng-disc-grid .kng-disc-col:last-child .kng-disc-grid-line:last-child {
+        display: none;
+    }
+
+    .kng-disc-grid .kng-disc-col:nth-child(2).kng-disc-grid-line.d-none-md {
+        display: none;
+    }
+
+    .team-inner {
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+
+    .ecosystemSlider {
+        padding: 0px 50px;
+    }
+
+    .tittle-h1 {
+        font-size: 40px;
+    }
+
+    .banner-sec-rhs img.rkt-pos {
+        max-width: 180px;
+    }
+
+    .container.bacnner-content {
+        padding-top: 5rem;
+    }
+
+    .banner-section {
+        height: 590px;
+        margin-bottom: 0px;
+    }
+
+    .form-tittle span {
+
+        letter-spacing: 8.5px;
+
+    }
+
+    /* .swiper.ecosystemSlider .swiper-slide {
+
+        max-width: 650px;
+
+    } */
+    .form-inner-images img:nth-child(3) {
+        right: 0;
+        max-width: 160px;
+    }
+
+    .brand-wpr {
+
+        width: 25%;
+
+    }
+
+    .form-inner-images img:nth-child(2) {
+        left: -10px;
+        max-width: 160px;
+    }
+
+    .countdown {
+
+        max-width: 80%;
+
+    }
+
+    .sold-slider {
+
+        max-width: 80%;
+
+        margin: auto;
+
+    }
+
+    .amount h3 {
+
+        font-size: 20px;
+
+    }
+
+    .price-act h3 {
+        font-size: 22px;
+    }
+
+    .price-act img {
+        max-width: 30px;
+        margin-right: 10px;
+    }
+
+    .form-content {
+        max-width: 550px;
+        border-radius: 40px;
+    }
+
+    .sold,
+    .sold span,
+    .remaining span,
+    .remaining {
+        font-size: 14px;
+    }
+
+    #timer #main_countedown_1 .time_left {
+        font-size: 20px;
+    }
+
+    .discover-rhs {
+        right: 0;
+        top: 230px;
+        max-width: 340px;
+    }
+
+    .glob-img-fire {
+        right: 90px;
+        max-width: 200px;
+        -webkit-transform: translateY(-50%);
+        transform: translateY(-66%);
+    }
+
+    .discover-content {
+
+        max-width: 520px;
+
+        padding: 32px 90px 45px 30px;
+
+    }
+
+    .ecosystemSlider .discover-content {
+
+        max-width: 540px;
+
+    }
+
+    .eco-img {
+        display: none;
+    }
+
+    .ecosystemSlider .swiper-button-next {
+
+        bottom: -110px;
+
+    }
+
+    .ecosystemSlider .swiper-button-prev {
+
+        bottom: -110px;
+
+    }
+
+    .swiper-inner .discover-content {
+        padding: 35px;
+    }
+
+    .discover-content>p {
+        font-size: 14px;
+        margin-bottom: 15px;
+    }
+
+    .discover-content h2 {
+
+        font-size: 30px;
+
+        margin-bottom: 20px;
+
+    }
+
+    .tocken-list-wpr {
+
+        padding: 2rem 3rem;
+
+        padding-bottom: 4rem;
+
+    }
+
+    .kng-disc-grid {
+
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+        margin-bottom: 0;
+    }
+
+    .ft-kang-social-wpr {
+
+        width: 80%;
+
+    }
+
+    .tokenomics-list {
+
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+
+        max-width: 50%;
+
+    }
+
+    .corlored-box {
+        width: 1.2rem;
+        height: 1.2rem;
+        margin-top: 4px;
+    }
+
+    .tokenomics-item-list {
+        grid-template-columns: 1.2rem 1fr;
+    }
+
+    .step-col {
+
+        padding-left: 1rem;
+
+        padding-right: 1rem;
+
+    }
+
+    .step-tittle {
+
+        font-size: 18px;
+
+        margin-bottom: 15px;
+
+    }
+    .audit-sec-outer.our-listing  .cta-yellow {
+        font-size: 15px;
+        min-width: 180px;
+        height: 45px;
+        max-width: 200px;
+    }
+}   
+
+@media (max-width:767px) {
+    .dontWait .discover-rhs {display: none;}
+    .dontWait .discover-content {
+        margin: auto;
+        width: 100%;
+        max-width: 100%;
+        padding: 45px;
+    }
+    .ecosystemSlider.swiper-horizontal>.swiper-pagination-bullets,
+    .swiper-pagination-bullets.swiper-pagination-horizontal,
+    .ecosystemSlider .swiper-pagination-custom,
+    .ecosystemSlider .swiper-pagination-fraction {
+        display: none;
+    }
+
+    .ecosystemSlider .swiper-button-next,
+    .ecosystemSlider .swiper-button-prev {
+        bottom: -80px;
+    }
+}
+
+@media (max-width:680px) {
+    .swiper-inner .discover-content {
+        padding: 25px;
+    }
+    .presale-table-wpr {
+        max-width: 100%;
+    }
+    .team-inner {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+    .audit-wpr {
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+    }
+    .audit-img-wp {
+        margin: auto;
+    }
+    .join-top-rhs.view-wpr {
+        margin-top: 0px;
+    }
+    .audit-inner {
+        margin-top: 40px;
+    }
+    .cta-yellow {
+        font-size: 16px;
+        height: 40px;
+        max-width: 200px;
+    }
+
+    .ecosystemSlider {
+        padding: 0px 30px;
+    }
+
+    ul.accordion-list li h3 {
+        padding-right: 20px;
+    }
+
+    .remaining {
+        font-size: 14px;
+    }
+
+    .remaining span {
+        font-size: 14px;
+    }
+
+    .sold {
+        font-size: 14px;
+    }
+
+    .form-inner-images img:nth-child(3) {
+        right: -50px;
+    }
+
+    .price-act h3 {
+        font-size: 24px;
+    }
+
+    .price-act img {
+        max-width: 30px;
+        margin-right: 10px;
+    }
+
+    #timer #main_countedown_1 .time_left {
+        font-size: 18px;
+    }
+
+    #timer #main_countedown_1 .element_conteiner {
+        min-width: 65px;
+    }
+
+    #timer #main_countedown_1 .element_conteiner ::after {
+        top: 0px;
+    }
+
+    .cta-buy .cta.cta-dark {
+        height: 50px;
+        font-size: 18px;
+    }
+
+    .amount h3 {
+        font-size: 14px;
+    }
+
+    .tocken-detail-desc {
+
+        margin: auto;
+
+        max-width: 700px;
+
+        margin-top: -30px;
+
+        width: 100%;
+
+        overflow: auto;
+
+    }
+
+    .brand-wpr {
+
+        width: 25%;
+
+    }
+
+    .ecosystem-title h2 {
+        font-size: 30px;
+    }
+
+    .ecosystemSlider .discover-content {
+        max-width: 465px;
+    }
+
+    .banner-sec-rhs {
+        max-width: 85%;
+        right: -70px;
+        top: 50%;
+        opacity: 0.6;
+    }
+
+    .banner-sec-lhs {
+
+        max-width:100%;
+
+    }
+
+    .discover-rhs {
+
+        right: -150px;
+
+        top: 230px;
+
+        max-width: 430px;
+
+    }
+
+    .faq-ttl h2 {
+
+        font-size: 30px;
+
+    }
+
+    .detail-col-tocken {
+
+        padding: 12px 10px;
+
+    }
+
+
+
+    .tckn-header h6 {
+
+        font-size: 13px;
+
+    }
+
+    .detail-col-tocken h4 {
+
+        margin-bottom: 12px;
+
+    }
+
+    .roadmap-wpr .ecosystem-title h2 {
+
+        margin: inherit;
+
+    }
+
+    .chart-img {
+
+        top: -20px;
+
+        max-width: 280px;
+
+    }
+
+    .tokenomics-list {
+
+        max-width: 45%;
+
+    }
+
+
+
+    .contact-inner {
+
+        max-width: 520px;
+
+        padding: 40px 38px 26px 28px;
+        margin-bottom: 3rem;
+    }
+
+    .form-tittle {
+        font-size: 26px;
+        max-width: 75%;
+
+    }
+
+    .presale-table-wpr table thead th {
+
+        font-size: 16px;
+
+    }
+
+    .community-inner .kangaverse-tittle {
+
+        max-width: 60%;
+
+    }
+
+    .img-grid img {
+
+        max-width: 33%;
+
+        width: 100%;
+
+    }
+
+    .audit-inner {
+
+        gap: 1.5rem 1.5rem;
+
+    }
+
+    .audit-content {
+
+        padding-left: 1.5rem;
+
+        padding-right: 1.5rem;
+
+    }
+
+    .presale-table-wpr table tbody tr td {
+
+        font-size: 15px;
+
+    }
+
+    .step-sec-wpr {
+
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+
+    }
+
+    .step-sec-wpr {
+
+        gap: 5rem 1rem;
+
+    }
+
+    .join-tittle {
+
+        font-size: 1.5rem;
+
+        text-align: center;
+
+    }
+
+    .join-us-top {
+
+        max-width: 100%;
+        gap: 50px 50px;
+
+    }
+
+    .powered-grid {
+
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+
+    }
+
+    .banner-imge-bg.toknomics-bg-wp {
+        padding-top: 38rem;
+    }
+
+    .kangaverse-tittle h2 {
+        font-size: 30px;
+    }
+
+    h1.tittle-h1 {
+        margin-bottom: 15px;
+    }
+
+    .phase-step {
+        font-size: 1.5rem;
+    }
+    .banner-section .banner-imge-bg img {
+        height: 550px;
+    }
+}
+
+.contact-sec {
+    position: relative;
+    z-index: 4;
+}
+
+@media (max-width:580px) {
+    .banner-imge-bg.toknomics-bg-wp {
+        padding-top: 60rem;
+    }
+    .audit-sec-outer.our-listing .audit-wpr {
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+        gap: 1rem 1rem;
+    }
+    .step-sec-wpr {
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+    }
+    .dontWait .discover-content {
+        padding: 25px;
+    }
+    .dontWait .discover-content h2 {
+        font-size: 24px;
+    }
+   
+    div#countdown-timer {
+        max-width:100%;
+    }
+    .team-inner {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .footer-sec-bott {
+        padding-top: 4rem;
+    }
+
+    .roadmap-arrows {
+        display: none;
+    }
+
+    .presale-wpr {
+        padding-top: 5rem;
+    }
+
+    .roadmap-wpr .ecosystem-title h2 {
+        font-size: 30px;
+        margin: auto;
+    }
+
+    .address-from-inner button {
+        padding: 10px 12px;
+        font-size: 12px;
+    }
+
+    .address-from-inner input {
+        padding-right: 135px;
+    }
+
+    .address-from-inner button img {
+        max-width: 12px;
+    }
+
+    .cta-yellow {
+        font-size: 16px;
+        min-width: 180px;
+        height: 45px;
+        max-width: 180px;
+    }
+
+    .terms-content-wp h2 {
+        margin-bottom: 1.2rem;
+        font-size: 1.8rem;
+    }
+
+    .team-inner {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .remaining span {
+        font-size: 12px;
+    }
+
+    .remaining {
+        font-size: 11px;
+    }
+
+    .sold {
+        font-size: 12px;
+    }
+
+    .terms-content-wp h3 {
+        font-size: 1.3rem;
+        margin-bottom: 1rem;
+        margin-top: 1rem;
+    }
+
+    .terms-content-wp ul {
+        font-size: 0.9rem;
+    }
+
+    .terms-content-wp p {
+        font-size: 0.9rem;
+    }
+
+    .ft-kang-social-wpr {
+
+        width: 100%;
+
+    }
+
+    .eco-img {
+        max-width: 280px;
+    }
+
+    .ecosystemSlider .discover-content {
+        max-width: 100%;
+    }
+
+    .brand-wpr {
+
+        width: 38%;
+
+    }
+
+    .eco-img {
+
+        display: none;
+
+    }
+
+    .ecosystemSlider .swiper-button-next,
+    .ecosystemSlider .swiper-button-prev {
+        bottom: -50px;
+
+    }
+
+    .ecosystemSlider .swiper-button-prev {
+
+        bottom: -30px;
+
+    }
+
+    .swiper-inner .discover-content {
+
+        padding: 20px;
+
+    }
+
+    .banner-sec-rhs {
+
+        right: -130px;
+
+        top: 55%;
+
+        opacity: 0.7;
+
+        max-width: 100%;
+
+    }
+
+    .banner-sec-rhs img.rkt-pos {
+        max-width: 180px;
+        left: -10px;
+        top: 20px;
+    }
+    .banner-sec-lhs {
+
+        max-width:100%;
+
+    }
+
+    .tp-bnr-cta .cta.cta-light {
+
+        font-size: 16px;
+
+        padding: 12px 30px;
+
+    }
+
+    .tp-bnr-cta .cta.cta-dark {
+
+        font-size: 14px;
+
+        padding: 12px 12px;
+        min-width:190px;
+
+    }
+
+    .discover {
+
+        padding-top: 8rem;
+
+    }
+
+    .form-content {
+
+        max-width: 520px;
+
+    }
+
+    .discover-content h2 {
+        font-size: 24px;
+        line-height: 120%;
+        margin-bottom: 10px;
+    }
+
+    .form-inner-images img:nth-child(3) {
+
+        right: -90px;
+
+        max-width: 180px;
+
+    }
+
+    .stage {
+
+        font-size: 28px;
+
+    }
+
+    .price-act h3 {
+
+        font-size: 25px;
+
+    }
+
+    .banner-section {
+
+        height: 530px;
+
+        margin-bottom: 40px;
+
+    }
+
+    .amount {
+
+        max-width: 85%;
+
+    }
+
+    .sold-slider {
+
+        max-width: 100%;
+
+    }
+
+    .countdown {
+
+        max-width: 100%;
+
+    }
+
+    .price-act img {
+
+        max-width: 30px;
+
+    }
+
+    .cta-buy .cta.cta-dark {
+
+        height: 45px;
+
+        font-size: 18px;
+
+    }
+
+    .rocket-img {
+
+        left: 0;
+
+        right: inherit;
+
+        margin: 0 auto;
+
+        max-width: 150px;
+
+    }
+
+    .cta-pink {
+
+        font-size: 18px;
+        height: 45px;
+        max-width: 220px;
+
+    }
+
+    .join-us-wpr {
+
+        padding-top: 15rem;
+
+    }
+
+    .discover-rhs {
+        right: -120px;
+        top: 180px;
+        max-width: 350px;
+    }
+
+    .detail-col-tocken {
+
+        padding: 12px 20px;
+
+    }
+
+    .step-tittle {
+
+        font-size: 18px;
+
+        margin-bottom: 16px;
+
+    }
+
+    .step-col {
+
+        padding-left: 1rem;
+
+        padding-right: 1rem;
+
+    }
+
+    .detail-col-tocken {
+        width: 33%;
+        border-bottom: 1px solid #ddd;
+    }
+
+    .tocken-detail-desc {
+
+        max-width: 100%;
+
+        flex-wrap: wrap;
+
+    }
+
+    .detail-col-tocken:last-child {
+
+        border-right: 1px solid #ddd;
+        border-bottom: 1px solid #ddd;
+    }
+
+    .detail-col-tocken:nth-child(3) {
+        border: 0;
+        border-bottom: 1px solid #ddd;
+
+    }
+
+    .chart-img {
+
+        top: 40px;
+
+        max-width: 300px;
+
+        margin: auto;
+
+        position: relative;
+
+    }
+
+    .tokenomics-list {
+
+        max-width: 100%;
+
+        margin-top: 80px;
+
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+
+    }
+
+    .presale-table-wpr {
+
+        max-width: 580px;
+
+        width: 100%;
+
+        overflow: auto;
+
+    }
+
+    .powered-grid {
+
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+
+    }
+
+    .form-lock {
+        top: -35px;
+        left: 20px;
+    }
+
+    .form-tittle {
+
+        font-size: 20px;
+
+    }
+
+    .form-tittle span {
+
+        letter-spacing: 2.5px;
+
+    }
+
+    .contact-inner img {
+        max-width: 70px;
+    }
+
+    .contact-inner {
+
+        max-width: 380px;
+
+        padding: 30px 28px 26px 28px;
+
+    }
+
+    .address-from-inner label {
+
+        margin-top: 15px;
+
+    }
+
+    .leaderboard-table-wpr {
+
+        max-width: 580px;
+
+        overflow: scroll;
+
+        width: 100%;
+
+    }
+
+    .presale-voilet-glob {
+        left: -70px;
+        top: 80px;
+    }
+
+    .presale-table-wpr table {
+
+        width: 100%;
+
+        overflow: auto;
+
+    }
+
+    .comm-img-garllery {
+
+        border-radius: 15px;
+
+    }
+
+    .community-inner .kangaverse-tittle {
+
+        max-width: 100%;
+
+    }
+
+    .img-moon-wpr {
+
+        display: none;
+
+    }
+
+    .audit-img-wp {
+
+        max-width: 190px;
+
+    }
+
+    .audit-inner {
+
+        gap: 1rem 1rem;
+
+    }
+
+    .audit-content {
+
+        padding-left: 0;
+
+        padding-right: 0;
+
+        width: 100%;
+
+        gap: 0.55rem 0.55rem;
+
+    }
+
+    .audit-status {
+
+        font-size: 18px;
+
+    }
+
+    .audit-desc {
+        font-size: 14px;
+    }
+
+    ul.accordion-list li h3 {
+
+        font-size: 18px;
+
+    }
+
+    ul.accordion-list li {
+        padding: 14px 15px;
+        margin: 0 auto 12px auto;
+        border-radius: 12px;
+    }
+
+    .faq-sec.position-relative {
+
+        padding-top: 10rem;
+
+    }
+
+    ul.accordion-list {
+        margin-top: 30px;
+    }
+
+    ul.accordion-list li div.answer p {
+        padding: 10px 10px 0 0px;
+        line-height: 150%;
+        margin: 0 0 5px 0;
+        font-size: 14px;
+    }
+
+    .audit-inner {
+
+        gap: 1.5rem 1.5rem;
+
+    }
+
+    .tittle-h1 {
+        font-size: 35px;
+
+    }
+
+    section.tokenomics {
+        padding-top: 4rem;
+    }
+}
+
+@media (max-width:480px) {
+    .discover-content>p {
+        font-size: 12px;
+        margin-bottom: 8px;
+    }
+    .tp-bnr-cta .cta.cta-dark {
+        font-size: 13px;
+        padding: 11px;
+    }
+    #about .discover-rhs {
+        right: -130px;
+    }
+    .comm-team-section {
+        padding-top: 20px;
+        z-index: 3;
+    }
+    .ftr-kng-links {
+        gap: 2rem 2rem;
+    }
+    .ft-kang-otr {
+        width: 100%;
+    }
+    .ft-kang-socials {
+        width: 38%;
+    }
+    .ecosystemSlider {
+        padding: 0px 10px;
+    }
+
+    .contact-sec {
+        padding-bottom: 2rem;
+    }
+
+    .audit-sec-outer {
+        padding-bottom: 4rem;
+    }
+
+    section.roadmap-sec {
+        padding-top: 4rem;
+    }
+
+    /* .team-outer-wpr.container {
+        margin-top: 4rem;
+    } */
+
+    .comm-img-garllery {
+        margin-top: 20px;
+    }
+
+    .kangaverse-tittle.tokenomics-tittle {
+        margin-bottom: 1rem;
+    }
+    .step-sec-wpr {
+        margin-top: 7rem;
+    }
+    .powered-sec {
+        padding: 3rem 0;
+    }
+
+    .chart-img {
+        top: 40px;
+        max-width: 260px;
+    }
+
+    .roadmap-arrows {
+        display: none;
+    }
+
+    .audit-status {
+        font-size: 18px;
+    }
+
+    .audit-desc {
+        font-size: 15px;
+    }
+
+    .contact-sec {
+        padding-top: 3rem;
+    }
+
+    .form-tittle {
+        font-size: 20px;
+    }
+
+    button#mobile-open {
+        top: 22px;
+    }
+
+    .cta-buy .cta.cta-dark {
+        height: 40px;
+        font-size: 16px;
+    }
+
+    .form-bottom {
+
+        padding: 50px 30px 40px;
+
+        text-align: center;
+
+    }
+
+    .ecosystem-section {
+
+        padding-top: 6rem;
+
+    }
+
+    .corlored-box {
+        width: 1rem;
+        height: 1rem;
+        margin-top: 4px;
+    }
+
+    .team-content-wp {
+        padding: 0.5rem;
+    }
+
+    .tokenomics-item-list {
+        grid-template-columns: 1rem 1fr;
+    }
+
+    .ecosystem-title h2 {
+        font-size: 26px;
+    }
+
+    .discover-content h2 {
+        font-size: 22px;
+    }
+
+    .ecosystem-title {
+        padding-bottom: 3rem;
+    }
+
+    .ecosystem-section {
+        padding-bottom: 8rem;
+    }
+
+    .ecosystemSlider .swiper-button-next {
+        bottom: -80px;
+    }
+
+    .ecosystemSlider .swiper-button-prev {
+        bottom: -80px;
+    }
+
+    .price-act h3 {
+
+        font-size: 20px;
+
+    }
+
+    .discover-content {
+
+        max-width: 520px;
+
+        padding: 32px 40px 45px 30px;
+
+        border-radius: 25px;
+
+    }
+
+    #timer #main_countedown_1 .time_left {
+
+        font-size: 20px;
+
+    }
+
+    .countdown {
+
+        height: 48px;
+
+    }
+
+    .banner-sec-rhs img.rkt-pos {
+
+        max-width: 160px;
+
+    }
+
+    .tittle-h1 {
+        font-size: 28px;
+        line-height: 120%;
+    }
+
+    .menu-cta-wpr.tp-bnr-cta {
+
+        padding: 0;
+
+        margin-top: 20px;
+
+    }
+
+    .discover {
+
+        padding-top: 8rem;
+
+    }
+
+    .discover-rhs {
+
+        top: 380px;
+
+    }
+
+    .cta-pink {
+
+        z-index: 4;
+
+        position: relative;
+
+    }
+
+    .powered-grid {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .chart-img {
+        top: 20px;
+    }
+
+    .kangaverse-tittle h2 {
+
+        font-size: 30px;
+
+    }
+
+    .roadmap-wpr .ecosystem-title h2 {
+        font-size: 30px;
+        margin: auto;
+    }
+
+    .step-sec-wpr {
+
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+
+    }
+
+    .join-us-top {
+        max-width: 100%;
+        gap: 20px 20px;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .roadmap-content {
+        border-radius: 1.5rem;
+        min-height: 22rem;
+    }
+
+    .detail-col-tocken h4 {
+        margin-bottom: 10px;
+        font-size: 13px;
+    }
+
+    .tckn-header {
+        gap: 10px 10px;
+    }
+
+    .tckn-header img {
+        max-width: 20px;
+    }
+}
+
+.phase-step-list.list-inside {
+    list-style-position: inherit;
+    padding-left: 15px;
+}
+
+@media (max-width:450px) {
+    .banner-imge-bg.toknomics-bg-wp {
+        padding-top: 60rem;
+    }
+    div#countdown-timer {
+        max-width: 100%;
+    }
+    .dontWait .discover-content h2 {
+        font-size: 20px;
+    }
+    div#countdown-timer {
+        height: 50px;
+    }
+    div#countdown-timer .flex-row {
+        font-size: 18px;
+    }
+    div#countdown-timer .flex-row {
+        padding-left: 15px;
+        padding-right: 15px;
+    }
+    div#countdown-timer .flex-row::after {
+        font-size: 22px;
+    }
+    .banner-sec-rhs {
+        max-width: 115%;
+    }
+    /* .join-top-rhs.view-wpr {
+        margin-top: 30px;
+    } */
+
+    .container.bacnner-content {
+        padding-top: 5rem;
+    }
+
+    .stage {
+        font-size: 25px;
+    }
+
+    .discover {
+        padding-top: 4rem;
+    }
+
+    .phase-list-item {
+        font-size: 0.9rem;
+    }
+
+    .discover-content h2 {
+        font-size: 25px;
+    }
+
+    .powered-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .form-tittle {
+        font-size: 20px;
+    }
+
+    .price-act h3 {
+        font-size: 18px;
+    }
+
+    .price-act img {
+        max-width: 25px;
+        margin-right: 6px;
+    }
+
+    .swiper-inner .discover-content {
+        padding: 80px 15% 40px 30px;
+    }
+
+    .ft-kang-social-wpr {
+
+        flex-direction: column;
+
+    }
+
+    .phase-step {
+        font-size: 1.5rem;
+    }
+
+    .nav-links.flex-row {
+
+        max-width: 312px;
+
+        right: -100%;
+
+        padding: 80px 15px 30px;
+
+    }
+
+    .menu-link {
+
+        font-size: 18px;
+
+    }
+
+    .tockenmatic-bnner {
+
+        max-width: 90%;
+
+    }
+
+    .swiper-inner .discover-content {
+
+        padding: 25px;
+
+    }
+
+    .ecosystemSlider.swiper-horizontal>.swiper-pagination-bullets,
+    .swiper-pagination-bullets.swiper-pagination-horizontal,
+    .ecosystemSlider .swiper-pagination-custom,
+    .ecosystemSlider .swiper-pagination-fraction {
+        bottom: -40px;
+        max-width: max-content;
+        margin: auto;
+        left: 0;
+        right: 0;
+    }
+
+    .all-right-rsvrd p {
+
+        text-align: center;
+
+    }
+
+    .join-us-wpr {
+        padding-top: 8rem;
+    }
+
+    .rocket-img {
+        max-width: 100px;
+    }
+
+    .discover-rhs {
+        top: 240px;
+        max-width: 270px;
+        right: -110px;
+    }
+
+    .ecosystem-section {
+        padding-top: 4rem;
+    }
+
+    .cta-pink {
+        font-size: 16px;
+        min-width: 168px;
+        max-width: 168px;
+    }
+
+    .tockens-number {
+        font-size: 0.86rem;
+        line-height: 1.5rem;
+    }
+
+    .tockens {
+        gap: 0.1rem 0.1rem;
+    }
+
+    .tocken-desc {
+        font-size: 0.775rem;
+    }
+
+    .kangaverse-section .kangaverse-tittle.container {
+        margin-bottom: 2rem;
+    }
+
+    .kangaverse-tittle.powered-by {
+        padding-bottom: 2rem;
+    }
+
+    .tocken-list-wpr {
+
+        padding: 2rem 1rem;
+
+        padding-bottom: 4rem;
+
+    }
+
+    .contact-sec {
+
+        padding-bottom: 0rem;
+
+    }
+
+    .presale-table-wpr table tbody tr td {
+        padding: 10px;
+        font-size: 13px;
+    }
+
+    .presale-table-wpr table {
+        border-spacing: 0 14px;
+    }
+
+    .presale-table-wpr table thead th {
+        font-size: 14px;
+    }
+
+    .img-grid img {
+
+        max-width: 50%;
+
+        width: 100%;
+
+    }
+
+    .presale-wpr {
+
+        padding-top: 5rem;
+
+        overflow: hidden;
+
+    }
+
+    .audit-inner {
+
+        width: 100%;
+
+        grid-template-columns: repeat(1, minmax(0, 1fr));
+
+    }
+
+    .ftr-kng-wpr {
+
+        justify-content: center;
+
+        width: 100%;
+
+    }
+
+    .ft-kang-social-ot {
+
+        justify-content: center;
+
+    }
+
+    .ftr-kng-links {
+
+        gap: 0.8rem 0.8rem;
+
+        justify-content: center;
+
+        align-items: center;
+
+        flex-wrap: wrap;
+
+    }
+
+    .footer-sec-bott {
+
+        padding-top: 4rem;
+
+    }
+
+    .audit-img-wp {
+
+        margin: auto;
+
+    }
+
+    .audit-content {
+
+        align-items: center;
+
+        justify-content: center;
+
+        text-align: center;
+
+    }
+/* 
+    .team-outer-wpr.container {
+        margin-top: 4rem;
+    } */
+
+    .audit-sec-outer {
+        padding-bottom: 4rem;
+    }
+
+    .faq-sec.position-relative {
+        padding-top: 8rem;
+    }
+
+    .kangaverse-tittle h2 {
+        font-size: 26px;
+    }
+
+    .roadmap-wpr .ecosystem-title h2 {
+        font-size: 26px;
+        margin: auto;
+    }
+
+    .faq-ttl h2 {
+        font-size: 26px;
+    }
+
+    ul.accordion-list li h3 {
+        font-size: 16px;
+        padding-right: 20px;
+    }
+
+    .footer-sec-bott .banner-imge-bg {
+        margin-top: 340px;
+    }
+
+    .audit-status {
+        font-size: 18px;
+    }
+
+    .audit-desc {
+        font-size: 15px;
+    }
+
+    .audit-img-wp img {
+        height: 2.5rem;
+    }
+
+    .roadmap-arrows {
+
+        top: -115px;
+
+        width: 100%;
+
+        max-width: 130px;
+
+        padding-bottom: 0.5rem;
+
+        padding-top: 0.5rem;
+
+        padding-left: 0.55rem;
+
+        padding-right: 0.55rem;
+
+    }
+
+    .swiper.roadmapSlider .swiper-button-next,
+
+    .swiper.roadmapSlider .swiper-button-prev {
+
+        width: 70px;
+
+        height: 40px;
+
+    }
+
+    .ecosystem-title {
+
+        padding-bottom: 2rem;
+
+    }
+
+    .swiper.roadmapSlider .swiper-button-next {
+
+        top: 30px;
+
+    }
+
+    .swiper.roadmapSlider .swiper-button-prev {
+
+        top: 31px;
+
+    }
+
+    section.roadmap-sec {
+        z-index: 2;
+        padding-top: 4rem;
+
+    }
+
+    .join-top-rhs.view-wpr {
+        text-align: center;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+}
+
+@media (max-width:380px) {
+    .banner-sec-rhs img.rkt-pos {
+        max-width: 160px;
+        left: -40px;
+        top: -11px;
+    }
+    div#countdown-timer .flex-row {
+        font-size: 16px;
+    }
+    div#countdown-timer .flex-row::after {
+        font-size: 20px;
+    }
+    .engage-kang-otr {
+        border-bottom: 0;
+    }
+    .container.bacnner-content {
+        padding-top: 5rem;
+    }
+
+    .incread-price p {
+        font-size: 14px;
+    }
+
+    .join-tittle {
+        font-size: 1.4rem;
+    }
+
+    .discover-content h2 {
+        font-size: 22px;
+    }
+
+    .swiper-inner .discover-content {
+        padding: 20px;
+    }
+
+    .roadmap-wpr .ecosystem-title h2 {
+
+        font-size: 35px;
+
+    }
+
+    .cta-buy {
+        max-width: 65%;
+    }
+
+    .countdown {
+        height: 45px;
+    }
+
+    .banner-sec-lhs {
+        max-width: 100%;
+    }
+
+    .stage {
+
+        font-size: 26px;
+
+    }
+
+    .amount {
+
+        max-width: 100%;
+
+    }
+
+    .amount h3 {
+
+        font-size: 16px;
+
+    }
+
+    .price-act h3 {
+
+        font-size: 18px;
+
+    }
+
+    .price-act img {
+
+        max-width: 25px;
+
+    }
+
+    .form-content {
+
+        border-radius: 25px;
+
+    }
+
+    #timer #main_countedown_1 .time_left {
+
+        font-size: 16px;
+
+        padding-bottom: 10%;
+
+        padding-top: 10%;
+
+        padding-left: 10%;
+
+        padding-right: 10%;
+
+    }
+
+    #timer #main_countedown_1 .element_conteiner {
+
+        min-width: 50px;
+
+    }
+
+    #timer #main_countedown_1 .element_conteiner ::after {
+
+        top: -2px;
+
+    }
+
+    .form-bottom {
+
+        padding: 30px 20px 30px;
+
+        text-align: center;
+
+    }
+
+    .form-top {
+
+        border-radius: 26px 26px 0 0;
+
+    }
+
+    .form-inner-images img:nth-child(3) {
+
+        right: -110px;
+
+    }
+
+    .crypto-list ul {
+
+        gap: 15px 15px;
+
+    }
+
+    .cta-buy .cta.cta-dark {
+        height: 40px;
+        font-size: 14px;
+    }
+
+    .cta-buy .cta.cta-dark {
+
+        height: 50px;
+
+        font-size: 16px;
+
+    }
+
+    .discover-content {
+
+        padding: 32px 25px 45px 25px;
+
+    }
+
+    .faq-ttl h2 {
+
+        font-size: 25px;
+
+    }
+
+    ul.accordion-list li h3 {
+
+        font-size: 16px;
+
+    }
+
+    .discover-rhs {
+        right: -140px;
+        top: 210px;
+        max-width: 320px;
+        opacity: 0.8;
+    }
+
+    .join-us-wpr {
+        padding-top: 6rem;
+    }
+
+    .detail-col-tocken {
+
+        width: 50%;
+
+    }
+
+    .detail-col-tocken:nth-child(3) {
+
+        border-right: 1px solid #ddd;
+
+    }
+
+    .detail-col-tocken {
+
+        padding: 12px 15px;
+
+    }
+
+    .tockens-number {
+
+        font-size: 0.8rem;
+
+    }
+
+    .corlored-box {
+        width: 1.3rem;
+        height: 1.3rem;
+    }
+
+    .powered-grid {
+
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+
+    }
+
+    .contact-inner {
+
+        max-width: 300px;
+
+        padding: 20px 18px 16px 18px;
+
+    }
+
+    .form-tittle {
+        font-size: 20px;
+        line-height: 130%;
+        max-width: 100%;
+        margin-top: 75px;
+    }
+
+    .address-from-inner button {
+
+        font-size: 12px;
+
+    }
+
+    .address-from-inner button img {
+
+        max-width: 10px;
+
+    }
+
+    .cta-yellow {
+        font-size: 15px;
+        height: 40px;
+    }
+
+    .presale-table-wpr table thead th {
+
+        font-size: 14px;
+
+    }
+
+    .presale-table-wpr table tbody tr td {
+
+        font-size: 13px;
+
+    }
+
+    .roadmap-arrows {
+
+        top: -110px;
+
+        height: 52px;
+
+        max-width: 110px;
+
+    }
+
+    .team-inner {
+
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+
+    }
+
+    .kangaverse-tittle h2 {
+
+        font-size: 25px;
+
+    }
+
+    .contact-sec {
+
+        padding-bottom: 1rem;
+
+    }
+
+}
+
+@media (max-width:350px) {
+    .cta-buy {
+        max-width: 70%;
+    }
+    .banner-sec-rhs {
+        max-width: 120%;
+    }
+    .banner-sec-rhs img.rkt-pos {
+        max-width: 150px;
+        left: -60px;
+        top: 10px;
+    }
+
+    .container.bacnner-content {
+        padding-top: 5rem;
+    }
+
+    .tittle-h1 {
+        font-size: 26px;
+        line-height: 120%;
+    }
+
+    .price-act img {
+        max-width: 20px;
+    }
+
+    .stage {
+        font-size: 24px;
+    }
+
+    .incread-price p {
+        font-size: 14px;
+    }
+
+    .amount h3 {
+        font-size: 14px;
+    }
+
+    .price-act h3 {
+        font-size: 15px;
+    }
+
+    .brand-wpr {
+        width: 47%;
+    }
+
+    .discover-content h2 {
+
+        font-size: 25px;
+
+    }
+
+    .swiper-inner .discover-content {
+
+        padding: 25px 25px 25px 25px;
+
+    }
+
+    .join-us-wpr {
+
+        padding-top: 8rem;
+
+    }
+
+    .rocket-img {
+
+        max-width: 120px;
+
+    }
+
+    .menu-cta-wpr.tp-bnr-cta {
+
+        padding: 0;
+
+        margin-top: 20px;
+
+        flex-direction: column;
+
+        justify-content: flex-start;
+
+        align-items: flex-start;
+
+    }
+
+    .banner-section {
+
+        height: 65vh;
+
+        margin-bottom: 30px;
+
+    }
+
+    .cta-buy .cta.cta-dark {
+        height: 45px;
+        font-size: 15px;
+    }
+
+    .tp-bnr-cta .cta.cta-dark {
+
+        min-width: 168px;
+
+    }
+
+    .discover-rhs {
+        right: -110px;
+        top: 460px;
+        max-width: 260px;
+        opacity: 0.6;
+    }
+
+    .cta-yellow {
+        font-size: 16px;
+        padding: 10px 22px;
+        height: 42px;
+    }
+
+    .kangaverse-tittle h2 {
+        font-size: 26px;
+    }
+
+    .corlored-box {
+        width: 1.2rem;
+        height: 1.2rem;
+    }
+
+    .detail-col-tocken h4 {
+        font-size: 13px;
+    }
+
+    .tckn-header h6 {
+        font-size: 12px;
+    }
+
+    .tckn-header img {
+        max-width: 20px;
+    }
+
+    .tckn-header {
+        gap: 10px 10px;
+    }
+
+    .form-tittle {
+        font-size: 20px;
+        margin-top: 80px;
+    }
+
+    .presale-table-wpr table tbody tr td {
+        font-size: 13px;
+    }
+
+    .presale-table-wpr table thead th {
+        font-size: 13px;
+    }
+
+    .presale-wpr {
+        padding-top: 4rem;
+    }
+
+    .faq-ttl p {
+        font-size: 18px;
+    }
+
+    .faq-ttl h2 {
+        font-size: 25px;
+    }
+}
